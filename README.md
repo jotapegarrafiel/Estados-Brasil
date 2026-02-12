@@ -21,16 +21,13 @@ O projeto foi desenvolvido como parte de estudos e construção de **portfólio 
 ## 🗂️ Estrutura do projeto
 
 ```
-analise_estados_brasil/
+Estados Brasil/
 │
 ├── data/
+│   └── clean/
+│       └── clean_estados_brasil.
 │   ├── raw/
 │   │   └── estados_brasil_wikipedia.csv
-│   └── clean/
-│       └── clean_estados_brasil.csv
-│
-├── notebooks/
-│   └── analise_estados_brasil.ipynb
 │
 └── README.md
 ```
